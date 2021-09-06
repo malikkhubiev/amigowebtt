@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/amigowebtt/static/css/main.f1f96fd9.chunk.css",
+    "main.js": "/amigowebtt/static/js/main.3218b33a.chunk.js",
+    "main.js.map": "/amigowebtt/static/js/main.3218b33a.chunk.js.map",
+    "runtime-main.js": "/amigowebtt/static/js/runtime-main.f2e757a4.js",
+    "runtime-main.js.map": "/amigowebtt/static/js/runtime-main.f2e757a4.js.map",
+    "static/js/2.2459abbe.chunk.js": "/amigowebtt/static/js/2.2459abbe.chunk.js",
+    "static/js/2.2459abbe.chunk.js.map": "/amigowebtt/static/js/2.2459abbe.chunk.js.map",
+    "static/js/3.2a9475ec.chunk.js": "/amigowebtt/static/js/3.2a9475ec.chunk.js",
+    "static/js/3.2a9475ec.chunk.js.map": "/amigowebtt/static/js/3.2a9475ec.chunk.js.map",
+    "index.html": "/amigowebtt/index.html",
+    "static/css/main.f1f96fd9.chunk.css.map": "/amigowebtt/static/css/main.f1f96fd9.chunk.css.map",
+    "static/js/2.2459abbe.chunk.js.LICENSE.txt": "/amigowebtt/static/js/2.2459abbe.chunk.js.LICENSE.txt",
+    "static/media/check.68dc9ac2.svg": "/amigowebtt/static/media/check.68dc9ac2.svg",
+    "static/media/select.02a4711a.svg": "/amigowebtt/static/media/select.02a4711a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2e757a4.js",
+    "static/js/2.2459abbe.chunk.js",
+    "static/css/main.f1f96fd9.chunk.css",
+    "static/js/main.3218b33a.chunk.js"
+  ]
+}
