@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/amigowebtt/static/css/main.f1f96fd9.chunk.css",
-    "main.js": "/amigowebtt/static/js/main.3218b33a.chunk.js",
-    "main.js.map": "/amigowebtt/static/js/main.3218b33a.chunk.js.map",
+    "main.js": "/amigowebtt/static/js/main.02735085.chunk.js",
+    "main.js.map": "/amigowebtt/static/js/main.02735085.chunk.js.map",
     "runtime-main.js": "/amigowebtt/static/js/runtime-main.f2e757a4.js",
     "runtime-main.js.map": "/amigowebtt/static/js/runtime-main.f2e757a4.js.map",
     "static/js/2.2459abbe.chunk.js": "/amigowebtt/static/js/2.2459abbe.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.f2e757a4.js",
     "static/js/2.2459abbe.chunk.js",
     "static/css/main.f1f96fd9.chunk.css",
-    "static/js/main.3218b33a.chunk.js"
+    "static/js/main.02735085.chunk.js"
   ]
 }
